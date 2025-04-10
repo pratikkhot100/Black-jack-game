@@ -9,11 +9,11 @@ This is a simple Blackjack (21) card game created using Java Swing and JFrame fo
 - Face cards (J, Q, K) are worth 10.
 - Aces can be 1 or 11, depending on which is better for the hand.
 
-## Screenshot:
+## 📸 Screenshot:
 
-![Screenshot 2025-04-10 120231](https://github.com/user-attachments/assets/78fc5a65-db95-449f-adbd-4528edd56c0b) 
+- ![Screenshot 2025-04-10 120231](https://github.com/user-attachments/assets/78fc5a65-db95-449f-adbd-4528edd56c0b) 
 
-![Screenshot 2025-04-10 120301](https://github.com/user-attachments/assets/3de47629-2f68-4f5e-a636-54817bb27da8)
+- ![Screenshot 2025-04-10 120301](https://github.com/user-attachments/assets/3de47629-2f68-4f5e-a636-54817bb27da8)
 
 
 ## ⚙️ Game Features:
