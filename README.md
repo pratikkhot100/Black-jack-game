@@ -15,6 +15,11 @@ This is a simple Blackjack (21) card game created using Java Swing and JFrame fo
 
 ![Screenshot 2025-04-10 120301](https://github.com/user-attachments/assets/3de47629-2f68-4f5e-a636-54817bb27da8)
 
+## 🛠️ Tech Stack:
+
+- Java SE (8+)
+- Swing (GUI)
+- AWT (for graphics and event handling)
 
 ## ⚙️ Game Features:
 GUI built using Java Swing components (JFrame, JButton, JLabel, etc.).
