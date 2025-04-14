@@ -54,3 +54,14 @@ Dealer hits until reaching at least 17.
 
 - Compare hands:
 Highest hand ≤ 21 wins.
+
+---
+
+ ## 📞 Contact Information
+
+  🐙 GitHub: https://github.com/pratikkhot100
+
+  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+
+  📧 Email: pratikkhot1207@gmail.com
+
